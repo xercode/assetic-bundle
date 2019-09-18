@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Symfony\\Bundle\\AsseticBundle\\": "",
+            "Symfony\\Bundle\\AsseticBundle\\": ""
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.8-dev"
+            "dev-master": "2.9-dev"
         }
     }
 }
