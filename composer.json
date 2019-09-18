@@ -22,7 +22,7 @@
         "symfony/dependency-injection": "*",
         "symfony/console": "*",
         "symfony/yaml": "*",
-        "kriswallsmith/assetic": "*"
+        "kriswallsmith/assetic": "dev-master"
     },
     "autoload": {
         "psr-4": {
